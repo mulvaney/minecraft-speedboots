@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="minecraft-speedboots">
+    <output-path>$PROJECT_DIR$/../spigot/plugins</output-path>
+    <root id="archive" name="minecraft-speedboots.jar">
+      <element id="module-output" name="minecraft-speedboots" />
+    </root>
+  </artifact>
+</component>

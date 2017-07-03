@@ -1,0 +1,7 @@
+name: SpeedBoots
+main: com.github.mulvaney.speedboots.Main
+version: ${version}
+commands:
+  speedboots:
+    description: adds some awesome boots
+    usage: /speedboots
